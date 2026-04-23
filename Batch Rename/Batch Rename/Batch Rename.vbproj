@@ -9,6 +9,7 @@
     <MyType>WindowsForms</MyType>
     <StartupObject>Batch_Rename.My.MyApplication</StartupObject>
     <GenerateAssemblyInfo>false</GenerateAssemblyInfo>
+    <EnableWindowsTargeting>true</EnableWindowsTargeting>
   </PropertyGroup>
 
 </Project>
